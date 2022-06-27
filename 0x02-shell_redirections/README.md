@@ -7,3 +7,4 @@ Display the content of the /etc/passwd file
 6 script that displays the third line of the file
 7_a shell script that creates a file named exactly
 8_Save current state of directory
+9_Duplicate last line
