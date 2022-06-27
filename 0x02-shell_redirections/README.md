@@ -8,3 +8,4 @@ script that takes a list of words as input and prints only words that appear exa
 17_Display all the lines in the file
 18_Display all lines of 
 18_Replace all characters
+20_script that removes all letters c
