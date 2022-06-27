@@ -2,3 +2,4 @@
 1_script that displays a confused smiley
 Display the content of the /etc/passwd file
 3_Display the content of 2 files
+4_Display the last 10 lines of
