@@ -3,3 +3,4 @@
 Display the content of the /etc/passwd file
 3_Display the content of 2 files
 4_Display the last 10 lines of
+5_Display the first 10 lines
