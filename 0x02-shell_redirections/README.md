@@ -7,3 +7,4 @@ script that takes a list of words as input and prints only words that appear exa
 16_Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 17_Display all the lines in the file
 18_Display all lines of 
+18_Replace all characters
