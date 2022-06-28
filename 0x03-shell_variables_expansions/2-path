@@ -1,2 +1,2 @@
 #!/bin/bash
-expotr PATH="$PATH:/action"
+export PATH="$PATH:/action"
