@@ -11,3 +11,4 @@ script that takes a list of words as input and prints only words that appear exa
 20_script that removes all letters c
 21_script that reverse its input
 22_script that displays all users and their home directories, sorted by users
+24_ script that lists all the files with a .gif
