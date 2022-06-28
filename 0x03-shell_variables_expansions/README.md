@@ -3,3 +3,4 @@
 Add /action to the PATH. /action
 3script that counts the number of directories in the PATH
 4_script that lists environment variables
+script that lists all local variables and environment variables, and functions.
