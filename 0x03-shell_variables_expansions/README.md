@@ -10,3 +10,4 @@ script that creates a new global variable
 9_script that prints the result of POWER divided by DIVIDE
 10_script that displays the result of BREATH to the power LOVE
 11_script that converts a number from base 2 to base 10
+12_script that prints all possible combinations of two letters, except oo
