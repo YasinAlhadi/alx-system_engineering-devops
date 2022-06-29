@@ -13,3 +13,4 @@ script that creates a new global variable
 12_script that prints all possible combinations of two letters, except oo
 13_script that prints a number with two decimal places
 script that converts a number from base 10 to base 16
+16_script that prints every other line from the input, starting with the first line
