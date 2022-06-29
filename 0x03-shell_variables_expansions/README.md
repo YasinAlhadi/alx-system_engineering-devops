@@ -12,3 +12,4 @@ script that creates a new global variable
 11_script that converts a number from base 2 to base 10
 12_script that prints all possible combinations of two letters, except oo
 13_script that prints a number with two decimal places
+script that converts a number from base 10 to base 16
