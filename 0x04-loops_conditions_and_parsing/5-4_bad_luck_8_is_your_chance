@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying "Best School" 10 times
+# This script is displaying "Best School" 10 times at 4 display bad luck, at 8 display good luck
 i=0
 while [ $((i++)) -le 9 ]; do
 	if [ $i -eq 4 ]
