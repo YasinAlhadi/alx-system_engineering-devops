@@ -1,1 +1,4 @@
-chmod_500_adds execute permission to the owner of file
+su_switches the current user to the user betty
+prints the effective username of the current user
+groups_prints all the groups the current user is part of
+chown_changes the owner of file
